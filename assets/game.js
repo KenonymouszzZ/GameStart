@@ -38,7 +38,7 @@ function startGame() {
     useres.style.color = colourss;
     document.getElementById('container1').remove();
   myGamePiece = new component(30, 30, colourss, 10, 120);
-  myBackground = new component(750, 420, "assets/bege.jpg", 0, 0, "background");
+  myBackground = new component(750, 420, "assets/3264451.jpg", 0, 0, "background");
   myScore = new component("20px", "arial", "black", 520, 25, "text");
   myObstacles = [];
   myGameArea.start();

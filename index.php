@@ -12,7 +12,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
        
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -20,7 +20,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="sweetalert2.min.css">
 
@@ -30,7 +30,7 @@
    <script src="script.js"></script>
    <div class="containers" id="containers">
        <section aria-label="Floating Logo">
-            <div class="tilt">
+            <!-- <div class="tilt">
               <h2>W</h2>
               <h2>E</h2>
               <h2>L</h2>
@@ -47,7 +47,7 @@
               <h2>X</h2>
               <h2>E</h2>
               <h2>L</h2>
-            </div>
+            </div> -->
           </section>
    <div class="container" id="container">
 	<div class="form-container sign-up-container">
@@ -87,7 +87,7 @@
 
 
 </div>
-<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_mMCVAR4Lqi.json"  background="transparent"  speed="1"  style="width: 600px; height: 600px; margin-left: 150px; margin-top: 130px;"  loop  autoplay></lottie-player>
+<lottie-player src="https://assets7.lottiefiles.com/packages/lf20_mMCVAR4Lqi.json"  background="transparent"  speed="1"  style="width: 600px; height: 600px; margin-left:150px; margin-top:130px;"  loop  autoplay></lottie-player>
 
 
 
