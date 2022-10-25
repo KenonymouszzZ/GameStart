@@ -20,20 +20,7 @@ $row = mysqli_fetch_assoc($res);
     <div id="containers">
     <section aria-label="Floating Logo">
 <!-- <div class="tilts"> -->
-              <!-- <h2>S</h2> -->
-              <!-- <h2>P</h2> -->
-              <!-- <h2>A</h2> -->
-              <!-- <h2>C</h2> -->
-              <!-- <h2>E</h2> -->
-              <!-- <h2>A</h2> -->
-              <!-- <h2>D</h2> -->
-              <!-- <h2>V</h2> -->
-              <!-- <h2>E</h2> -->
-              <!-- <h2>N</h2> -->
-              <!-- <h2>T</h2> -->
-              <!-- <h2>U</h2> -->
-              <!-- <h2>R</h2> -->
-              <!-- <h2>E</h2> -->
+              
             <!-- </div> -->
           </section>
                   <h1 id="nama">Player: <?php echo $row['username'];?> #<?php echo $row['id'];?> </h1>  

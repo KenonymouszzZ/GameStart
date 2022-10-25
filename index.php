@@ -31,22 +31,7 @@
    <div class="containers" id="containers">
        <section aria-label="Floating Logo">
             <!-- <div class="tilt">
-              <h2>W</h2>
-              <h2>E</h2>
-              <h2>L</h2>
-              <h2>L</h2>
-              <h2>C</h2>
-              <h2>O</h2>
-              <h2>M</h2>
-              <h2>E</h2>
               
-              <h2>T</h2>
-              <h2>O</h2>
-              <h2>P</h2>
-              <h2>I</h2>
-              <h2>X</h2>
-              <h2>E</h2>
-              <h2>L</h2>
             </div> -->
           </section>
    <div class="container" id="container">
